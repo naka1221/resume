@@ -1,0 +1,37 @@
+
+
+.main-content{
+    display: flex;
+    margin: 5rem;
+    /* direction: rtl; */
+
+    justify-content: space-between;
+    background-color: red;
+    position: relative;
+
+}
+.content-img{
+    width: 350px;
+    height: 450px;
+    position: fixed;
+      left: 50px;
+    top: 20%;
+
+}
+p{
+    direction: rtl;
+    text-align:justify;
+    font-size: 20px;
+    line-height:50px ;
+    width: 60%;
+    margin-right: 0;
+  
+    position: absolute;
+    right: 0;
+}
+.content-title{
+    direction: rtl;
+margin-right: 5rem;
+margin-top: 2rem;
+}
+

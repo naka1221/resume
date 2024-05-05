@@ -1,0 +1,555 @@
+@media screen and (max-width:1400px){
+    .home-page__img{
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:1300px){
+    .container-home-page__right{
+        margin-right: 6rem;
+    }
+    .home-page__right-header{
+        font-size: 45px;
+    }
+    .typewriter{
+        font-size: 45px;
+    }
+
+    .homee{
+    height: auto;
+    }
+    .about-content-list{
+        width: 40%;
+        margin-right: 11rem;
+    }
+    .contact-left{
+        margin-right: 7rem;
+    }
+    .contact-right{
+        height: 50vh;
+        width:60%;
+        margin-left: 4rem;
+    }
+}
+
+@media screen and (max-width:1200px){
+    .container-home-page__right{
+        margin-right: 6rem;
+    }
+    .home-page__right-header{
+        font-size: 38px;
+    }
+    .typewriter{
+        font-size: 38px;
+    }
+
+    .home-page__right{
+        margin-right: 4rem;
+
+    }
+    .home-page__img{
+        width: 400px;
+    }
+    .about-img{
+    width: 350px;
+    height: 350px;
+    margin-left: 4rem;
+    }
+    .about-content-list{
+        width: 40%;
+        margin-right: 14rem;
+    }
+    .about-title{
+        left: 35%;
+    }
+
+    .about-title-work{
+    left:30%;
+    }
+
+    .work ul li{
+        font-size: 20px;
+    }
+    textarea{
+        width: 80%;
+    }
+    .input-contact input{
+        width: 35%;
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width:1100px){
+    
+    .home-page__img{
+        width: 350px;
+        height: calc(100vh - 150px);
+        margin-top: 4rem;
+    }
+    .container-home-page__right{
+        margin-right: 7rem;
+
+    }
+    .home-page__right-content{
+        padding: 1rem ;
+    }
+    .home-page__left{
+       width: 40%;
+       padding-right: 0;
+       margin-right: 0;
+    }
+
+    .home-page__right{
+        width: 50%;
+       padding-right: 0;
+       margin-right: 0;
+       margin-left: 0;
+       padding-left: 0;
+    }
+    .home-page__img{
+        border-radius: 0;
+    }
+
+    .testimonia-title{
+       font-size: 80px;
+       margin-right: 12rem;
+    }
+    .about-title{
+        font-size: 80px;
+    }
+    .about-title-work{
+        font-size: 80px;
+    }
+    .contact-title{
+        font-size: 80px;
+    }
+    .contact-left{
+        margin-right: 7rem;
+    }
+    .contact-right{
+        height: 50vh;
+        width:40%;
+        margin-left: 1rem;
+    }
+    .input-contact {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .input-contact input{
+        width: 48%;
+    }
+    
+.input-contact input:nth-child(1){
+    margin-right: 0rem;
+
+}
+textarea{
+    width: 100%;
+}
+}
+
+@media screen and (max-width:1020px){
+    .home-page__right-content{
+        padding: 1rem ;
+    }
+    .home-page__right-header{
+        font-size: 33px;
+    }
+    .typewriter{
+        font-size: 33px;
+
+    }
+    /* .input-contact input{
+        width: 36%;
+        margin-right: 2rem;
+    } */
+}
+
+@media screen and (max-width:1000px){
+    .about-img{
+        width: 350px;
+        height: 350px;
+       border-radius: 0;
+       margin-top: 4rem;
+     }
+}
+
+@media screen and (max-width:920px){
+    .home-page__img{
+        width: 350px;
+    }
+    .home-page__right-header{
+        font-size: 35px;
+    }
+    .home-page__right{
+        width: 80%;
+        margin: 0 auto;
+        padding: 0;
+        text-align: center;
+    }
+    .home-page__left{
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .home-page__img{
+        width: 100%;
+        height: 90%;
+        margin-top: -5rem;
+    }
+    .home-page__left{
+       height: 60vh;
+    }
+    .home-page{
+        display: block;
+        height: auto;
+        margin: auto;
+    }
+    .home-right-button{
+        margin-bottom: 0;
+    }
+    .container-home-page__right{
+        width: 100%;
+    }
+    .home-page__right-content{
+       padding: 0;
+       margin: 1rem auto;
+    }
+    .home-right-button {
+        margin: 0 auto;
+    }
+    .testimonia-title{
+        font-size: 70px;
+        margin-right: 10rem;
+     }
+     .swiper-slide {
+        height: 60%!important;
+     }
+     .wrapper-box-swiper{
+        width: 80% !important;
+     }
+     .about-img{
+        width: 300px;
+        height: 300px;
+        margin-left: 1rem;
+     }
+     .about-content-list{
+        width: 60%;
+        margin-right: 10rem;
+    }
+    .about-content-wrapper{
+        padding-top: 3rem;
+    }
+    .work ul{
+        width: 60%;
+    }
+    .contact-left__group{
+        display: flex;
+    }
+    .contactt {
+        width: 100%;
+        height: auto;
+    }
+    .contact{
+      height: auto;
+    }
+    .contact-left{
+        width: 80%;
+    }
+    .contact-right{
+       width: 80%; 
+       height: 40vh;
+       margin-top: -5rem;
+    }
+    .contact-left__content{
+       margin: 0 2rem;
+    }
+    .contact-left__list{
+        margin-top: 2rem;
+        margin-right: 0rem;
+    }
+    textarea{
+        width: 80%;
+    }
+    .input-contact{
+        width: 80%;
+        margin: 0 auto;
+
+    }
+    .input-contact input{
+        width: 48%;
+    }
+}
+
+@media screen and (max-width:768px){
+    .home-page__left-bgcolor{
+        width: 0;
+        height: 0;
+    }
+    .navbar{
+        position: absolute;
+        width: 80px;
+        top: 5%;
+        right: 20px;
+        opacity: 1;
+        z-index: 100;
+    }
+    .home-page__img{
+        width: 100%;
+        height: 80%;
+        margin-top: -5rem;
+    }
+    .home-page__left{
+    height: 50vh;
+    }
+    .wrapper-box-swiper{
+        padding-top: 1rem;
+        margin-bottom: 7rem !important;
+    }
+    .swiper-slide {
+        height: 60%!important;
+    }
+    .swiper {
+        width: 70% !important;
+        height: 50% !important;
+        margin-bottom: 5rem !important;
+    }
+    .testimonia-title{
+        font-size: 45px;
+        margin-right: 8rem;
+    }
+    .about-title-work{
+        font-size: 45px;
+        left: 38%;
+    }
+    .swiper-pagination-bullet{
+        margin-bottom: 18rem;
+    }
+    .wrapper-box-swiper{
+        margin-top: 2rem;
+    }
+    .about-content-list{
+        width: 55%;
+        margin-right: 7rem;
+        margin-left: 0;
+    }
+    .about-title{
+        left: 38%;
+        font-size: 45px;
+    }
+    .contact-title{
+        font-size: 45px;
+    }
+    .resume__title{
+        margin-top: 3rem;
+    }
+    .resume-left__box{
+        width: 400px;
+        height: 200px;
+        margin: 1.5rem 0;
+    }
+    .resume-left__box{
+        padding-bottom: 2rem;
+        padding-top: 1rem;
+    }
+    .work ul{
+        width: 95%;
+        justify-content: space-evenly;
+        margin-top: 6rem;
+    }
+    .work ul li{
+       font-size: 18px;
+    }
+
+    .contact-left__header{
+        font-size: 25px;
+        margin-bottom: 2rem;
+    }
+    .conatct-left__text{
+        font-size: 18px;
+    }
+    .contact-left__list{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .about-img{
+        display: none;
+        background-image: none;
+    }
+    .about-content-list{
+        width: 80%;
+      margin-right: 8rem;
+    }
+    .about-title-work{
+        font-size: 65px;
+        left:25%;
+     }
+    .about-content-wrapper{
+        padding-top: 1rem;
+    }
+    .contact-left__header{
+        font-size: 25px;
+        margin-bottom: 2rem;
+    }
+    .conatct-left__text{
+        font-size: 18px;
+    }
+    .contact-left__group{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        margin-bottom: 4rem;    
+    }
+    .contact-left__list{
+        width: 100%;
+        margin-right: 0;
+    }
+    .contact-right{
+        height: 80vh;
+        margin-top: 4rem;
+    }
+}
+
+@media screen and (max-width:500px){
+    .testimonia-title{
+        width: 70%;
+        font-size: 35px;
+        margin-right: 4rem;
+    }
+    .about-img{
+        display: none;
+        background-image: none;
+    }
+    .about-content-list{
+        width: 80%;
+      margin-right: 8rem;
+    }
+    .about-title{
+        left: 35%;
+        font-size: 45px;
+    }
+    .about-title-work{
+       font-size: 45px;
+       left: 25%;
+    }
+    .about-content-wrapper{
+        padding-top: 1rem;
+    }
+    .resume-left__box{
+        width: 300px;
+        height: 200px;
+        margin: 1rem 0;
+    }
+    .resume-box__title{
+        font-size: 18px;
+        margin-left: 0px;
+    }
+    .resume-box__date {
+        padding: 5px;
+        font-size: 11px;
+    }
+    .navbar ul li a{
+        font-size:15px;
+        height: 45px; 
+        width: 45px;
+    }
+    .navbar ul li:before{
+        height: 45px;
+        right: 21px;
+    }
+    .navbar ul li:hover:before{
+        width: 120px;
+        opacity: 1;
+        font-size: 15px;
+    }
+    .input-contact{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+    .input-contact input{
+        width: 100% !important;
+        margin-right: 0;
+    
+    }
+    .input-contact input:nth-child(1){
+        margin-right: 0rem;
+    }
+    textarea{
+      margin-top: 1rem;
+    }
+    .contact-right__header{
+        margin-right: 2rem;
+    }
+    .contact-content-btn{
+        width: 30%;
+        margin: 0 auto;
+        margin-top: 2rem;
+        padding:0.5rem 1rem;
+    }
+    
+}
+
+@media screen and (max-width:400px){
+    .container-home-page__right{
+        margin-right: 2.5rem;
+    }
+
+    .home-page__right-header{
+        font-size: 25px;
+    }
+
+    .typewriter{
+        font-size:25px ;
+        z-index: 1;
+    }
+
+    .home-page__right-content{
+        font-size:16px ;
+    }
+
+    .testimonia-title{
+        width: 100%;
+        font-size: 35px;
+        margin-right: 0rem;
+    }
+
+    .resume-left__box{
+        width: 260px;
+        height: 240px;
+        margin: 1.5rem 0;
+    }
+    .about-content__main-text{
+        font-size: 14px;
+    }
+    .about-title{
+        left: 35%;
+        font-size: 35px;
+        top: 2%;
+    }
+    .resume-box__title{
+        font-size: 14px;
+    }
+    .resume__title{
+        font-size: 20px;
+        margin-top: 3rem;
+    }
+    .resume-box__date {
+         margin-right: 10px;
+    }
+    .resume-box__name{
+      font-size: 15px;
+    }
+    .contact-left__group{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-left__list{
+        margin-right: 0;
+    }  
+}
+
